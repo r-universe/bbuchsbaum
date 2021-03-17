@@ -13,3 +13,8 @@
 	url = https://github.com/bbuchsbaum/neuroim
 	shallow = true
 	registered = true
+[submodule "rflann"]
+	path = rflann
+	url = https://github.com/YeeJeremy/rflann
+	shallow = true
+	registered = false
