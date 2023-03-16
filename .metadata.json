@@ -1,0 +1,10 @@
+[
+  {
+    "package": "colorplane",
+    "oncran": true
+  },
+  {
+    "package": "neuroim",
+    "oncran": true
+  }
+]
