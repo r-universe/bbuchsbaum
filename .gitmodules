@@ -8,6 +8,11 @@
 	url = https://github.com/bbuchsbaum/colorplane
 	shallow = true
 	registered = true
+[submodule "deflist"]
+	path = deflist
+	url = https://github.com/bbuchsbaum/deflist
+	shallow = true
+	registered = true
 [submodule "neuroim"]
 	path = neuroim
 	url = https://github.com/bbuchsbaum/neuroim
