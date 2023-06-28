@@ -1,25 +1,17 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "colorplane"]
 	path = colorplane
 	url = https://github.com/bbuchsbaum/colorplane
-	shallow = true
-	registered = true
 [submodule "deflist"]
 	path = deflist
 	url = https://github.com/bbuchsbaum/deflist
-	shallow = true
-	registered = true
 [submodule "neuroim"]
 	path = neuroim
 	url = https://github.com/bbuchsbaum/neuroim
-	shallow = true
-	registered = true
 [submodule "rflann"]
 	path = rflann
 	url = https://github.com/YeeJeremy/rflann
-	shallow = true
 	registered = false
