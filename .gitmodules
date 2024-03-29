@@ -8,6 +8,9 @@
 [submodule "deflist"]
 	path = deflist
 	url = https://github.com/bbuchsbaum/deflist
+[submodule "multivarious"]
+	path = multivarious
+	url = https://github.com/bbuchsbaum/multivarious
 [submodule "neuroim"]
 	path = neuroim
 	url = https://github.com/bbuchsbaum/neuroim
