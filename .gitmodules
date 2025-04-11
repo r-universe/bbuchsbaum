@@ -14,6 +14,9 @@
 [submodule "neuroim"]
 	path = neuroim
 	url = https://github.com/bbuchsbaum/neuroim
+[submodule "neuroim2"]
+	path = neuroim2
+	url = https://github.com/bbuchsbaum/neuroim2
 [submodule "rflann"]
 	path = rflann
 	url = https://github.com/YeeJeremy/rflann
