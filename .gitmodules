@@ -1,19 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/bbuchsbaum/bbuchsbaum.r-universe.dev
 	branch = HEAD
-[submodule "colorplane"]
-	path = colorplane
-	url = https://github.com/bbuchsbaum/colorplane
-[submodule "deflist"]
-	path = deflist
-	url = https://github.com/bbuchsbaum/deflist
-[submodule "multivarious"]
-	path = multivarious
-	url = https://github.com/bbuchsbaum/multivarious
-[submodule "neuroim"]
-	path = neuroim
-	url = https://github.com/bbuchsbaum/neuroim
+[submodule "bidser"]
+	path = bidser
+	url = https://github.com/bbuchsbaum/bidser
+[submodule "fmrihrf"]
+	path = fmrihrf
+	url = https://github.com/bbuchsbaum/fmrihrf
 [submodule "neuroim2"]
 	path = neuroim2
 	url = https://github.com/bbuchsbaum/neuroim2
