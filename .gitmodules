@@ -5,6 +5,9 @@
 [submodule "bidser"]
 	path = bidser
 	url = https://github.com/bbuchsbaum/bidser
+[submodule "dipca"]
+	path = dipca
+	url = https://github.com/bbuchsbaum/dipca
 [submodule "fmrihrf"]
 	path = fmrihrf
 	url = https://github.com/bbuchsbaum/fmrihrf
@@ -17,3 +20,6 @@
 [submodule "openneuroR"]
 	path = openneuroR
 	url = https://github.com/bbuchsbaum/openneuroR
+[submodule "phynd"]
+	path = phynd
+	url = https://github.com/bbuchsbaum/phynd
