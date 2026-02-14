@@ -11,3 +11,9 @@
 [submodule "neuroim2"]
 	path = neuroim2
 	url = https://github.com/bbuchsbaum/neuroim2
+[submodule "niflowr"]
+	path = niflowr
+	url = https://github.com/bbuchsbaum/niflowr
+[submodule "openneuroR"]
+	path = openneuroR
+	url = https://github.com/bbuchsbaum/openneuroR
