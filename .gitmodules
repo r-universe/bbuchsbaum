@@ -11,12 +11,18 @@
 [submodule "dipca"]
 	path = dipca
 	url = https://github.com/bbuchsbaum/dipca
+[submodule "fmridesign"]
+	path = fmridesign
+	url = https://github.com/bbuchsbaum/fmridesign
 [submodule "fmrihrf"]
 	path = fmrihrf
 	url = https://github.com/bbuchsbaum/fmrihrf
 [submodule "neuroim2"]
 	path = neuroim2
 	url = https://github.com/bbuchsbaum/neuroim2
+[submodule "neurotransform"]
+	path = neurotransform
+	url = https://github.com/bbuchsbaum/neurotransform
 [submodule "niflowr"]
 	path = niflowr
 	url = https://github.com/bbuchsbaum/niflowr
@@ -26,3 +32,6 @@
 [submodule "phynd"]
 	path = phynd
 	url = https://github.com/bbuchsbaum/phynd
+[submodule "xnatR"]
+	path = xnatR
+	url = https://github.com/bbuchsbaum/xnatR
