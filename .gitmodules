@@ -17,6 +17,9 @@
 [submodule "fmrihrf"]
 	path = fmrihrf
 	url = https://github.com/bbuchsbaum/fmrihrf
+[submodule "neurocluster"]
+	path = neurocluster
+	url = https://github.com/bbuchsbaum/neurocluster
 [submodule "neuroim2"]
 	path = neuroim2
 	url = https://github.com/bbuchsbaum/neuroim2
