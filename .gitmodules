@@ -5,6 +5,9 @@
 [submodule "bidser"]
 	path = bidser
 	url = https://github.com/bbuchsbaum/bidser
+[submodule "ciftier"]
+	path = ciftier
+	url = https://github.com/bbuchsbaum/ciftier
 [submodule "dipca"]
 	path = dipca
 	url = https://github.com/bbuchsbaum/dipca
