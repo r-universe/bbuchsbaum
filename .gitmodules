@@ -11,6 +11,9 @@
 [submodule "dipca"]
 	path = dipca
 	url = https://github.com/bbuchsbaum/dipca
+[submodule "fmridataset"]
+	path = fmridataset
+	url = https://github.com/bbuchsbaum/fmridataset
 [submodule "fmridesign"]
 	path = fmridesign
 	url = https://github.com/bbuchsbaum/fmridesign
