@@ -38,6 +38,9 @@
 [submodule "phynd"]
 	path = phynd
 	url = https://github.com/bbuchsbaum/phynd
+[submodule "shard"]
+	path = shard
+	url = https://github.com/bbuchsbaum/shard
 [submodule "xnatR"]
 	path = xnatR
 	url = https://github.com/bbuchsbaum/xnatR
