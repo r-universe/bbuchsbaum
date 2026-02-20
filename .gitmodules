@@ -23,6 +23,9 @@
 [submodule "fmrireg"]
 	path = fmrireg
 	url = https://github.com/bbuchsbaum/fmrireg
+[submodule "neuroatlas"]
+	path = neuroatlas
+	url = https://github.com/bbuchsbaum/neuroatlas
 [submodule "neurocluster"]
 	path = neurocluster
 	url = https://github.com/bbuchsbaum/neurocluster
