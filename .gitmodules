@@ -8,6 +8,9 @@
 [submodule "ciftier"]
 	path = ciftier
 	url = https://github.com/bbuchsbaum/ciftier
+[submodule "delarr"]
+	path = delarr
+	url = https://github.com/bbuchsbaum/delarr
 [submodule "dipca"]
 	path = dipca
 	url = https://github.com/bbuchsbaum/dipca
@@ -17,12 +20,24 @@
 [submodule "fmridesign"]
 	path = fmridesign
 	url = https://github.com/bbuchsbaum/fmridesign
+[submodule "fmrigds"]
+	path = fmrigds
+	url = https://github.com/bbuchsbaum/fmrigds
 [submodule "fmrihrf"]
 	path = fmrihrf
 	url = https://github.com/bbuchsbaum/fmrihrf
+[submodule "fmrilss"]
+	path = fmrilss
+	url = https://github.com/bbuchsbaum/fmrilss
 [submodule "fmrireg"]
 	path = fmrireg
 	url = https://github.com/bbuchsbaum/fmrireg
+[submodule "fmrireport"]
+	path = fmrireport
+	url = https://github.com/bbuchsbaum/fmrireport
+[submodule "fmristore"]
+	path = fmristore
+	url = https://github.com/bbuchsbaum/fmristore
 [submodule "neuroatlas"]
 	path = neuroatlas
 	url = https://github.com/bbuchsbaum/neuroatlas
@@ -32,6 +47,9 @@
 [submodule "neuroim2"]
 	path = neuroim2
 	url = https://github.com/bbuchsbaum/neuroim2
+[submodule "neurosurf"]
+	path = neurosurf
+	url = https://github.com/bbuchsbaum/neurosurf
 [submodule "neurotransform"]
 	path = neurotransform
 	url = https://github.com/bbuchsbaum/neurotransform
