@@ -26,6 +26,9 @@
 [submodule "fmrihrf"]
 	path = fmrihrf
 	url = https://github.com/bbuchsbaum/fmrihrf
+[submodule "fmrilatent"]
+	path = fmrilatent
+	url = https://github.com/bbuchsbaum/fmrilatent
 [submodule "fmrilss"]
 	path = fmrilss
 	url = https://github.com/bbuchsbaum/fmrilss
