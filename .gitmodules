@@ -2,6 +2,28 @@
 	path = .registry
 	url = https://github.com/bbuchsbaum/bbuchsbaum.r-universe.dev
 	branch = HEAD
+[submodule "albersdown"]
+	path = albersdown
+	url = https://github.com/bbuchsbaum/albersdown
+[submodule "amatrix"]
+	path = amatrix
+	url = https://github.com/bbuchsbaum/amatrix
+[submodule "amatrix.arrayfire"]
+	path = amatrix.arrayfire
+	url = https://github.com/bbuchsbaum/amatrix
+	subdir = backends/amatrix.arrayfire
+[submodule "amatrix.metal"]
+	path = amatrix.metal
+	url = https://github.com/bbuchsbaum/amatrix
+	subdir = backends/amatrix.metal
+[submodule "amatrix.mlx"]
+	path = amatrix.mlx
+	url = https://github.com/bbuchsbaum/amatrix
+	subdir = backends/amatrix.mlx
+[submodule "amatrix.opencl"]
+	path = amatrix.opencl
+	url = https://github.com/bbuchsbaum/amatrix
+	subdir = backends/amatrix.opencl
 [submodule "bidser"]
 	path = bidser
 	url = https://github.com/bbuchsbaum/bidser
