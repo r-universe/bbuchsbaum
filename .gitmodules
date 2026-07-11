@@ -66,6 +66,9 @@
 [submodule "fmristore"]
 	path = fmristore
 	url = https://github.com/bbuchsbaum/fmristore
+[submodule "mixeff"]
+	path = mixeff
+	url = https://github.com/bbuchsbaum/mixeff
 [submodule "neuroatlas"]
 	path = neuroatlas
 	url = https://github.com/bbuchsbaum/neuroatlas
